@@ -2,7 +2,7 @@
 
 # Hello-microverse
 
-> Hello microverse description.
+> 
 
 ## Built With
 
@@ -18,6 +18,8 @@ To get a local copy up and running follow these simple example steps.
 👤 **Author1**
 
 - GitHub: https://github.com/Danelif
+- Twitter: https://twitter.com/DanElfemuk
+- linkedIn: https://www.linkedin.com/in/dan-elifeleti-5811a3106/
 
 ## 🤝 Contributing
 
